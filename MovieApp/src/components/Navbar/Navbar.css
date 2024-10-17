@@ -45,6 +45,7 @@
 }
 .navbar .right ul li {
   cursor: pointer;
+  list-style: none;
 }
 .navbar .right li:first-child svg {
   font-size: 24px;
